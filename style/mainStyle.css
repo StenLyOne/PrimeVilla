@@ -7,7 +7,7 @@
     border-radius: 20px;
     margin: 0px auto 100px;
 
-    background: url(/image/main-2.png) 60% 100%;
+    background: url(/main-2.png) 60% 100%;
     transform: translateX(100%); /* начальное положение за пределами видимости */
     opacity: 0;
     
@@ -47,12 +47,12 @@
 } */
 
 main:nth-child(2) {
-    background: url(/image/main-1.png); 
+    background: url(/main-1.png); 
     background-position: 55% 100%;
 }   
 
 main:nth-child(3) {
-    background: url(/image/main-3.png);
+    background: url(/main-3.png);
     background-position: 50% 40%;
 }
 
