@@ -434,6 +434,9 @@ function sendadd () {
 
     success.style.display = 'flex'
     body.classList.add('body-overlow');
+    nameInput.value = ''
+    emailInput.value = ''
+    phoneInput.value = ''
 }
     
 function sendClosed() {
