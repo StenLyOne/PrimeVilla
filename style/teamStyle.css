@@ -60,21 +60,21 @@
 
 .card-container-2 .card:last-child{
     margin-right: 0px;
-    background-image: url(image/Taylor.png);
+    background-image: url(/image/Taylor.png);
 }   
 
 .card:nth-child(2) {
-    background-image: url(/main/image/Aria.png);
+    background-image: url(//image/Aria.png);
     background-position: 50% 30%;
 }
 
 .card:nth-child(3) {
-    background-image: url(main/image/Taylor.png);
+    background-image: url(/image/Taylor.png);
     background-position: 20% 0%;
 }
 
 .card:nth-child(4) {
-    background-image: url(image/pol.png);
+    background-image: url(/image/pol.png);
     background-position: 40% 20%;
 }
 
